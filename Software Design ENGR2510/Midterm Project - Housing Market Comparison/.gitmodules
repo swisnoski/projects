@@ -1,0 +1,3 @@
+[submodule "geopandas-tutorial2"]
+	path = geopandas-tutorial2
+	url = git@github.com:joncutrer/geopandas-tutorial.git

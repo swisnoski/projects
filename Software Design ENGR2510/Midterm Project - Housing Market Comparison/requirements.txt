@@ -1,0 +1,8 @@
+colorspacious~=1.1.2
+geopandas~=0.14.2
+matplotlib~=3.7.2
+numpy~=1.24.3
+pandas~=2.0.3
+Requests~=2.31.0
+seaborn~=0.13.2
+Shapely~=2.0.3
