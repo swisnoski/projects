@@ -1,1 +1,1 @@
-A repository hosting all the (relevant) projects I've completed over the years at Olin. Folders are sorted by class and project. Feel free to reach out with any questions, or visit my site at www.samwisnoski.com for more information about me! 
+A repository hosting all the (relevant) projects I've completed over the years at Olin. Folders are sorted by class and project. Feel free to reach out with any questions, or visit my site at www.samwisnoski.com for more information.
